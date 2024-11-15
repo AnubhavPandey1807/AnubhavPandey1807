@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 # 💫 About Me:
 Hi 👋! My name is Anubhav Pandey and I'm a student of B.Tech. in<br>Computer Science and Information Technology.<br>I am currently in 3rd year.
 
