@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Hi 👋, I’m **Anubhav Pandey**, a **B.Tech student in Computer Science & Information Technology**.  
-Currently in my **3rd year**, I am **deeply focused on Cybersecurity and Ethical Hacking**, with hands-on experience in **CTFs, vulnerability analysis, and security-focused development**.
+Currently in my **Final year**, I am **deeply focused on Cybersecurity and Ethical Hacking**, with hands-on experience in **CTFs, vulnerability analysis, and security-focused development**.
 
 My primary career objective is to grow as a **Cybersecurity Engineer / Ethical Hacker**, with strong foundations in **secure coding, web security, and penetration testing**.  
 I also possess **working knowledge of Machine Learning**, mainly applied to **security and automation use-cases**.
